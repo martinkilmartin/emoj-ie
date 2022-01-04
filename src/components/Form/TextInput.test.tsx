@@ -3,7 +3,7 @@ import TextInput from './TextInput'
 
 test('TextInput displays label and text-input', () => {
   const title = 'Email'
-  const placeholder = 'info@sionnach.solutions'
+  const placeholder = 'info@emoj.ie'
   const textInputRenderer = renderer.create(
     <TextInput title={title} placeholder={placeholder} />
   )

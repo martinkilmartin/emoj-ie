@@ -1,7 +1,7 @@
 export const APP_TITLE = 'Emoj.ie'
 export const BASE_URL = 'emoj.ie'
 export const BRAND = 'Emoj.ie'
-export const TAG_LINE = 'Emojies!'
+export const TAG_LINE = 'Unicode Emoji Characters'
 export const HERO_IMG = '@img/bg/emojies-2400w.jpg'
 export const CONTACT_TITLE = 'Send us a message'
 export const CONTACT_MESSAGE_TITLE = 'Message'

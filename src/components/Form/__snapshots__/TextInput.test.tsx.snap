@@ -16,7 +16,7 @@ exports[`TextInput displays label and text-input 1`] = `
     className="input input-primary input-bordered"
     maxLength={1000}
     minLength={1}
-    placeholder="info@sionnach.solutions"
+    placeholder="info@emoj.ie"
     required={true}
     type="text"
   />

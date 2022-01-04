@@ -3,7 +3,7 @@ import { ReactNode } from 'react'
 import { Container } from '@layouts/Container'
 import { HTMLHead } from '@components/HTMLHead'
 import { Navbar } from '@layouts/Navbar'
-import { SionnachSolutionsLogo } from '@components/SVG'
+import { EmojieLogo } from '@components/SVG'
 import { Footer } from '@layouts/Footer'
 
 type Props = {
@@ -15,7 +15,7 @@ type Props = {
 const Page = ({ title, heading, children }: Props): JSX.Element => (
   <Container>
     <HTMLHead title={title} description={heading} />
-    <Navbar logo={<SionnachSolutionsLogo />} />
+    <Navbar logo={<EmojieLogo />} />
     {children}
     <Footer />
   </Container>

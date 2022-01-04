@@ -2,7 +2,7 @@ const PrivacyPolicy = [
   {
     title: '👋 1. INTRODUCTION',
     content: [
-      `This privacy notice provides you with details of how we collect and process your personal data through your use of our site(s) ${process.env.NEXT_PUBLIC_WEBSITE_DOMAIN} and ${process.env.NEXT_PUBLIC_WEBSITE_DOMAIN_ALT}.`,
+      `This privacy notice provides you with details of how we collect and process your personal data through your use of our site ${process.env.NEXT_PUBLIC_WEBSITE_DOMAIN}.`,
       'By providing us with your data, you warrant to us that you are over 13 years of age.',
       `${process.env.NEXT_PUBLIC_COMPANY_NAME} is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).`,
       'Our full contact details are:',

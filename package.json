@@ -1,5 +1,5 @@
 {
-  "name": "sionnach.solutions",
+  "name": "emoj.ie",
   "version": "0.1.0",
   "scripts": {
     "dev": "doppler run -- next dev",

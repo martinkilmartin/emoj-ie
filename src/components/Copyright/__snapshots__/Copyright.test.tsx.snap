@@ -2,6 +2,6 @@
 
 exports[`Copyright displays current year and brand 1`] = `
 <p>
-  © 2022 Sionnach Solutions
+  © 2022 Emoj.ie
 </p>
 `;

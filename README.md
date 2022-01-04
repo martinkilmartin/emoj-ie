@@ -1,6 +1,6 @@
-# sionnach.solutions
+# emoj.ie
 
-Website for Sionnach Solutions / Sionnach Buí
+Website for emoj.ie
 
 ## Run dev build & start dev server
 
